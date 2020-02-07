@@ -9,4 +9,4 @@ Frontend: Reactjs para web e React native para o mobile
 
 Banco de dados: MongoDB
 
-![App image](https://github.com/jfilipe-dev/finde-dev/blob/d0cb2399e6de2ecca011e4b1446ddd14207386a2/Capturar.PNG)
+![App image](https://github.com/jfilipe-dev/finde-dev/blob/b21bd44c9c053d83a3894fb5c7139b09dafe9677/Capturar.PNG)
