@@ -4,5 +4,9 @@ Aplicação desenvolvida durante a semana OmniStack, a aplicação, na versão w
 Tecnologias utilizadas:
 
 Backend: Node.js
+
 Frontend: Reactjs para web e React native para o mobile
+
 Banco de dados: MongoDB
+
+![App image](https://github.com/jfilipe-dev/finde-dev/blob/d0cb2399e6de2ecca011e4b1446ddd14207386a2/Capturar.PNG)
