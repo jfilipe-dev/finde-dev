@@ -11,7 +11,7 @@ const server = http.Server(app);
 
 setupWebsocket(server);
 
-mongoose.connect('mongodb+srv://joao:1234@cluster0-hs0yo.mongodb.net/omnistack?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://<user>:<password>@cluster0-hs0yo.mongodb.net/test?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
